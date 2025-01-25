@@ -7,7 +7,11 @@
 function say_hello() {
     // CODE HERE!!!
     console.log("What is your name?")
+<<<<<<< Updated upstream
     console.log("Pitchaporn Pongkham")
+=======
+    console.log("Pitchaporn Pongkham")   
+>>>>>>> Stashed changes
     
     console.log("Tharachon Warintaweewat")
 }
