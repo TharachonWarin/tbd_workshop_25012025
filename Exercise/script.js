@@ -7,12 +7,9 @@
 function say_hello() {
     // CODE HERE!!!
     console.log("What is your name?")
-<<<<<<< HEAD
     console.log("Pitchaporn Pongkham")
     
-=======
     console.log("Tharachon Warintaweewat")
->>>>>>> d95a0a6fcb6a6bbd80951fc39d72c053314a192e
 }
 
 // Don’t change the code under this comment!
