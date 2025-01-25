@@ -8,8 +8,11 @@ function say_hello() {
     // CODE HERE!!!
     console.log("What is your name?")
     console.log("Pitchaporn Pongkham")
+<<<<<<< Updated upstream
     
     console.log("Tharachon Warintaweewat")
+=======
+>>>>>>> Stashed changes
 }
 
 // Don’t change the code under this comment!
